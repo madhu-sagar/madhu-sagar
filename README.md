@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to my profile. Sharing some of my learnings as a web engineer here. Have a good day!
 <!--
 **madhu-sagar/madhu-sagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
