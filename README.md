@@ -6,7 +6,6 @@ Welcome to my profile. Sharing some of my learnings as a web engineer here. Have
 **React**
 
 * [System Design In React (With Helpful Code Examples)](https://github.com/madhu-sagar/system-design-react-code-examples)
-
 * [React Projects to Learn From](https://github.com/madhu-sagar/react-projects-to-learn-from)
   
 **Others**
